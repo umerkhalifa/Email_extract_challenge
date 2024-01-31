@@ -1,0 +1,24 @@
+id: 63b565e1-12c6-457a-abcc-1eee7298e4d5
+name: Development
+type: 1
+canvas_id: 739093ff-ac76-466d-8312-41e7acbac3d7
+blocks:
+- auto_size: false
+  canvas_id: 739093ff-ac76-466d-8312-41e7acbac3d7
+  cpu: null
+  description: ''
+  height: 500
+  id: a54eee1e-64f2-4cbe-ae2f-6c9e0693f458
+  is_fargate: false
+  layer_id: 63b565e1-12c6-457a-abcc-1eee7298e4d5
+  memory: null
+  name: ''
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 800
+  x: 657
+  y: 392
+edges: []
